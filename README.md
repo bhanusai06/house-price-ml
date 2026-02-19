@@ -187,7 +187,7 @@ Automated model retraining pipeline
 
 👨‍💻 Author
 
-Bhanu Sai
+Bhanu Sai Veera Ashok Babu Sonti
 Undergraduate — Artificial Intelligence & Data Science
 
 GitHub: https://github.com/bhanusai06
